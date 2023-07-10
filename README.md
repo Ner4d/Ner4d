@@ -2,7 +2,6 @@
 
 ### About me :
 Im junior backend software engineer
-- I am 26 years old
 ### :hammer_and_wrench: Tools I have worked with :
 
 <p  align="center">
