@@ -1,7 +1,8 @@
 ### Hi, my name is Oleg
 
 ### About me :
-Im backend python
+Im junior backend software engineer
+- I am 26 years old
 ### :hammer_and_wrench: Tools I have worked with :
 
 <p  align="center">
