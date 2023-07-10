@@ -2,10 +2,16 @@
 
 ### About me :
 Im backend python
-### :hammer_and_wrench: Languages and Tools :
-</div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title=Pycharm alt="Pycharm" height="40" width="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title=Python alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title=Django alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/621cfa47087728b7c857e4f6c6657ddcc97abcdd/icons/celery.svg" title=Celery alt="Celery" width="40" height="40"/>&nbsp;
-</div>
+### :hammer_and_wrench: Tools I have worked with :
+
+<p  align="center">
+  <code><img width="40" height="40" title="Pycharm" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"></code>
+  <code><img width="40" height="40" title="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
+  <code><img width="40" height="40" title="Django" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
+  <code><img width="40" height="40" title="Celery" src="https://raw.githubusercontent.com/simple-icons/simple-icons/621cfa47087728b7c857e4f6c6657ddcc97abcdd/icons/celery.svg"></code>
+  <code><img width="40" height="40" title="Redis" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg"></code>
+  <code><img width="40" height="40" title="Nginx" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg"></code>
+  <code><img width="40" height="40" title="Postgresql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
+  <code><img width="40" height="40" title="Ubuntu" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"></code>
+  <code><img width="40" height="40" title="FileZilla" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg"></code>
+</p>
